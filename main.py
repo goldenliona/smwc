@@ -4,7 +4,7 @@ import datetime
 global message_text
 global current_time
 # Replace with your ICQ bot API token
-ICQ_BOT_TOKEN = "001.3280755794.0514846345:1010959428"
+ICQ_BOT_TOKEN = "001.0230692338.1567941515:1010981079"
 
 
 def send_message(chat_id, text):
